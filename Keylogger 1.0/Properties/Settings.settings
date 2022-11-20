@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="chrome.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxxxxxxxxxxxxx@gmail.com</Value>
+    </Setting>
+    <Setting Name="Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1245666788999</Value>
+    </Setting>
+    <Setting Name="Target" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxxxxxxxxxxxxxxxx@gmail.com</Value>
+    </Setting>
+    <Setting Name="ServidorGmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="Puerto" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="ServidorFTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://ejemplo.com</Value>
+    </Setting>
+    <Setting Name="UsuarioFTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ejemplo</Value>
+    </Setting>
+    <Setting Name="PassFTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2678</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

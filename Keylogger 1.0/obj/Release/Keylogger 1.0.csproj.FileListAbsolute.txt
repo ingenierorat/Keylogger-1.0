@@ -1,0 +1,9 @@
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\bin\Release\rundDLL31.exe.config
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\bin\Release\rundDLL31.exe
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\bin\Release\rundDLL31.pdb
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\Keylogger_1._0.frmPrincipal.resources
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\chrome.Properties.Resources.resources
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\Keylogger 1.0.csproj.GenerateResource.Cache
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\rundDLL31.exe
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\rundDLL31.pdb
+F:\Desarrollos\Csharp\Keylogger 1.0\Keylogger 1.0\obj\Release\Keylogger 1.0.csprojResolveAssemblyReference.cache
